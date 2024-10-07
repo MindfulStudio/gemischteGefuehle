@@ -12,7 +12,7 @@ A diary feature provides a weekly view of recorded emotions, allowing users to c
 This project is a collaboration between [Barış Balcı](https://github.com/barisbalcimusic), [hannahnier](https://github.com/hannahnier), [luisePkt](https://github.com/luisePkt), [Nadja Probst](https://github.com/nadjascodejourney). The development team does not have a professional background in psychology or related fields, and the application is not intended to replace medical or psychological treatment or advice. For mental health issues, users are encouraged to seek professional help.
 
 ### Note
-For more details on the project, please check the [Frontend README](https://github.com/MindfulStudio/frontend) and the [Backend README](https://github.com/MindfulStudio/backend).
+For more details on the project, please check the [Frontend Repository](https://github.com/MindfulStudio/frontend) and the [Backend Repository](https://github.com/MindfulStudio/backend).
 
 </details>
 
@@ -27,5 +27,5 @@ Die Anwendung bietet außerdem eine Tagebuchfunktion, die eine Wochenübersicht 
 Das Projekt ist eine Gemeinschaftsarbeit von [Barış Balcı](https://github.com/barisbalcimusic), [hannahnier](https://github.com/hannahnier), [luisePkt](https://github.com/luisePkt), [Nadja Probst](https://github.com/nadjascodejourney). Das Entwicklerteam hat keinen fachlichen Hintergrund im Bereich Psychologie oder verwandten Wissenschaften, und die Anwendung ersetzt keine medizinische oder psychologische Beratung. Bei psychischen Problemen raten die Entwickler\*innen, sich professionelle Hilfe zu suchen.
 
 ### Hinweis
-Für weitere Informationen zum Projekt besuche bitte das [Frontend README](https://github.com/MindfulStudio/frontend) und das [Backend README](https://github.com/MindfulStudio/backend).
+Für weitere Informationen zum Projekt besuche bitte das [Frontend Repository](https://github.com/MindfulStudio/frontend) und das [Backend Repository](https://github.com/MindfulStudio/backend).
 </details>
